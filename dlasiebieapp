@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dla Siebie - Strona Główna</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #2c3e50; }
+        .links { margin-top: 30px; border-top: 1px solid #eee; padding-top: 20px; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Aplikacja: Dla Siebie</h1>
+    <p>Aplikacja <strong>Dla Siebie</strong> służy do bezpiecznego tworzenia kopii zapasowych oraz zarządzania plikami użytkownika bezpośrednio na jego własnym koncie Google Drive.</p>
+    
+    <div class="links">
+        <h2>Dokumentacja prawna:</h2>
+        <ul>
+            <li>
+                <strong>Polityka Prywatności:</strong> 
+                <a href="https://gist.github.com/indykappcreate-svg/81ced2b5cc3b35f9e85e8dba029777b2">Przeczytaj tutaj</a>
+            </li>
+            <li>
+                <strong>Warunki Korzystania:</strong> 
+                <a href="https://gist.github.com/indykappcreate-svg/4e8cf81318850efa0bfab0762b7d3313">Przeczytaj tutaj</a>
+            </li>
+        </ul>
+    </div>
+
+    <hr>
+    <p><small>Własność: Damian (indykappcreate-svg)</small></p>
+</body>
+</html>
